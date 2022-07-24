@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6+TFXDWYvh4qBn6canw7akyQgXh+MhN8dxVDMoQikwU=",
+  "Source": "ParallelRequestsPOC.App",
+  "BasePath": "_content/ParallelRequestsPOC.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
