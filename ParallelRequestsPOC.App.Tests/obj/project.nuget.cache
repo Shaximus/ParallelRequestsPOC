@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iBzwA4p95lcYLa7Rfyr2gYOU/wAzPNZ5E1NO8AtYtIy9HMjGgWeC5XkNs+eAhX2IF2S9VIoP6smy6RMUfBhXqg==",
+  "dgSpecHash": "c/mpUwTS8eVgtlF2THVV1TBuMDytKSGm+JXs37v4Yxwm/+jFhkG6N1+hfhFktp8ifp3yCOwPNf9DbwAz/N1A3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.Tests\\ParallelRequestsPOC.App.Tests.csproj",
   "expectedPackageFiles": [

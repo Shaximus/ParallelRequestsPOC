@@ -1676,6 +1676,19 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ParallelRequestsPOC.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ParallelRequestsPOC.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParallelRequestsPOC.App.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -5966,11 +5979,17 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ParallelRequestsPOC.App/1.0.0": {
+      "type": "project",
+      "path": "../ParallelRequestsPOC.App/ParallelRequestsPOC.App.csproj",
+      "msbuildProject": "../ParallelRequestsPOC.App/ParallelRequestsPOC.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.2.0",
+      "ParallelRequestsPOC.App >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -6000,7 +6019,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj": {
+              "projectPath": "C:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

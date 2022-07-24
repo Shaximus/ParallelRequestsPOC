@@ -21,4 +21,8 @@
       </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ParallelRequestsPOC.App\ParallelRequestsPOC.App.csproj" />
+    </ItemGroup>
+
 </Project>
