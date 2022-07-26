@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj": {}
+    "c:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj": {
+    "c:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj",
+        "projectUniqueName": "c:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj",
         "projectName": "ParallelRequestsPOC.App",
-        "projectPath": "C:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj",
+        "projectPath": "c:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App.csproj",
         "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\obj\\",
+        "outputPath": "c:\\Users\\austi\\NETProjects\\ParallelRequestsPOC.App\\ParallelRequestsPOC.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\austi\\AppData\\Roaming\\NuGet\\NuGet.Config"
